@@ -6,4 +6,4 @@
 
 ### Tech Stack and Hosting
 
-The website is hosted on Heroku. It can be found at https://dutch-to-english.herokuapp.com/
+The website is hosted on Heroku. It can be found at https://translate-06.herokuapp.com/
