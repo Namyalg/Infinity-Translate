@@ -9,9 +9,10 @@ import streamlit.components.v1 as components
 import csv
 import base64 
 import time
+#from google_trans_new import google_translator
 from google.cloud import translate
 import os
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'Path to your Service account JSON credentials file'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = r'./translate_cred.json'
 translate_client = translate.Client()
 
 pytesseract.pytesseract.tesseract_cmd = '/app/.apt/usr/bin/tesseract'
