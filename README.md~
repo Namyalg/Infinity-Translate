@@ -29,13 +29,6 @@
 - A PDF file (Editable and Non-editable can be uploaded)
 
 
-![German Text](assets/german.PNG?raw=true "German Text")
 
-- This is a snippet from a German Newspaper, the PDF version of this is in the `assets` folder, the same has been used for the demonstration
-
-
-![Translated Text](assets/translated.PNG?raw=true "Translated Page")
-- The German Text is translated to English, the to and from languages are chosen appropriately.
-- On completion the text is displayed and there is also a provision to download the contents into a text file
 
 Feel free to reach out in case of any queries or doubts !
