@@ -18,7 +18,7 @@
 ### Tech Stack and Hosting
 - Streamlit has been used for the UI.
 - Google Translate APIs to perform translation
-- The website is hosted on Heroku. It can be found at https://infinity-translate.herokuapp.com/
+- The website is hosted on Heroku. 
 - This blog can be used to follow the steps to host the application on Heroku : https://namyalg.medium.com/deploy-a-streamlit-app-on-heroku-with-ocr-c0ec2a3dab2e
 
 ### Demonstration
